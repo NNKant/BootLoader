@@ -22,6 +22,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include <stdint.h>
+#include <stdbool.h>
 #include "GlobalVar.h"
 #include "BootLoader.h"
 /* USER CODE END Includes */
